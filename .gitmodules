@@ -1,0 +1,3 @@
+[submodule "src/jsoup-frontend"]
+	path = src/jsoup-frontend
+	url = https://github.com/efwoods/jsoup-frontend.git
